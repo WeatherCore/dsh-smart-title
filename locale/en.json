@@ -1,0 +1,14 @@
+{
+  "en": {
+    "btn.updateTitle": "✎ Update Title",
+    "btn.titleTip": "Update title with AI (Shift+Click to edit manually)",
+    "prompt.editTitle": "Enter new conversation title:",
+    "error.updateFailed": "Failed to update title: "
+  },
+  "zh": {
+    "btn.updateTitle": "✎ 更新标题",
+    "btn.titleTip": "使用 AI 更新标题（Shift+点击手动编辑）",
+    "prompt.editTitle": "输入新的对话标题：",
+    "error.updateFailed": "更新标题失败："
+  }
+}
