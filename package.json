@@ -12,6 +12,9 @@
   "author": "lenovo",
   "license": "MIT",
   "type": "module",
+  "engines": {
+    "dsh": ">=0.2.1-rc.3"
+  },
   "exports": {
     ".": "./index.js",
     "./client": "./client.js",
@@ -44,6 +47,7 @@
     }
   },
   "peerDependencies": {
-    "@deepseek-ai/dsh": ">=0.2.1-rc.3"
+    "@deepseek-ai/dsh": ">=0.2.1-rc.3",
+    "@deepseek-ai/dsh-session-title-llm": ">=0.2.1-rc.3"
   }
 }
