@@ -1,0 +1,8 @@
+# Disable built-in early prompt-only auto-titler (fires before the assistant
+# even responds; smart-title takes over after turn 1 completes).
+- id: session-title-llm
+  disabled: true
+
+- insert:
+    - id: dsh-smart-title
+      name: dsh-smart-title
