@@ -13,31 +13,31 @@ window.__ModuleLoader__.load({
           ctx.locale.register(NS, {
             en: {
               'btn.updateTitle': '✎ Update Title',
-              'btn.titleTip': 'Update title with AI (Shift+Click to edit manually)',
+              'btn.titleTip': 'Regenerate title with AI (Shift+Click to edit manually)',
               'prompt.editTitle': 'Enter new conversation title:',
               'error.updateFailed': 'Failed to update title: ',
             },
             zh: {
               'btn.updateTitle': '✎ 更新标题',
-              'btn.titleTip': '使用 AI 更新标题（Shift+点击手动编辑）',
+              'btn.titleTip': '用 AI 重新生成标题（Shift+点击手动编辑）',
               'prompt.editTitle': '输入新的对话标题：',
               'error.updateFailed': '更新标题失败：',
             },
             'pt-BR': {
               'btn.updateTitle': '✎ Atualizar Título',
-              'btn.titleTip': 'Atualizar título com IA (Shift+Clique para editar manualmente)',
+              'btn.titleTip': 'Regenerar título com IA (Shift+Clique para editar manualmente)',
               'prompt.editTitle': 'Digite o novo título da conversa:',
               'error.updateFailed': 'Falha ao atualizar o título: ',
             },
             pt: {
               'btn.updateTitle': '✎ Atualizar Título',
-              'btn.titleTip': 'Atualizar título com IA (Shift+Clique para editar manualmente)',
+              'btn.titleTip': 'Regenerar título com IA (Shift+Clique para editar manualmente)',
               'prompt.editTitle': 'Digite o novo título da conversa:',
               'error.updateFailed': 'Falha ao atualizar o título: ',
             },
             ja: {
               'btn.updateTitle': '✎ タイトルを更新',
-              'btn.titleTip': 'AIでタイトルを更新（Shift+クリックで手動編集）',
+              'btn.titleTip': 'AIでタイトルを再生成（Shift+クリックで手動編集）',
               'prompt.editTitle': '新しい会話タイトルを入力：',
               'error.updateFailed': 'タイトルの更新に失敗しました：',
             },
